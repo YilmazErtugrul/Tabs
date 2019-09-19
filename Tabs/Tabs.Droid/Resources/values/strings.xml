@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="VersionName">1.0</string>
+    <string name="ApplicationName">Tabs</string>
+
+    <string name="tab1_title">First</string>
+    <string name="tab2_title">Second</string>
+    <string name="tab3_title">Third</string>
+</resources>
